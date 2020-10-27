@@ -1,1 +1,5 @@
-Closer 2.0 - Mudando a arquitetura para o VIPER, armazenando os dados em cache e usando struct e protocolo Codable ...
+
+Closer 2.0
+-> Refactoring the MVC architecture for VIPER.
+-> Caching data
+-> Using struct and Codable protocol ...
